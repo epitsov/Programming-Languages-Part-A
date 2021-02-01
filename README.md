@@ -1,2 +1,2 @@
 # Programming-Languages-Part-A
-My solutions for the PL A course. It was my first encounter with ML and functional programming language. I found the course hard, but learned a lot of things doing it.
+My solutions for the PL A course. It was my first encounter with ML and functional programming language. The course helped me view code in a different way and improved my recursive thinking it also tought me concepts like currying, pattern matching and how to use and create higher order functions( like filtering,mapping and folding). I found the course hard, but learned a lot of things doing it.
